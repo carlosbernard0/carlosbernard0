@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working as developer
- 
- 🌱 I’m currently learning **Fullstack development**
+ 🔭 I’m currently starting to work as a developer intern.
+ 🌱 I’m currently learning **Fullstack development**.
 
 
  </div>
