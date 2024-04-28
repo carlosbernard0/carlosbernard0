@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <!--
 **carlosbernard0/carlosbernard0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
  🔭 I’m currently starting to work as a developer intern.
  
- 🌱 I’m currently learning **Fullstack development**.
+ 🌱 I’m currently learning **fullstack development**.
 
 
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br/>
 <hr/>
 
-<h2 align="center">✨ Stats ✨</h2>
+<h2 align="center">💥 Stats 💥</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=carlosbernard0&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
