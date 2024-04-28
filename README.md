@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **carlosbernard0/carlosbernard0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,15 +15,15 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">A Developer Intern</h3>
+<h3 align="center">Carlos Bernardo K.F - Development intern</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working as developer and programming instructor
+ 🔭 I’m currently working as developer
  
- 🌱 I’m currently learning **Design Patterns and Complex Data Structures**
+ 🌱 I’m currently learning **Fullstack development**
 
 
  </div>
@@ -40,7 +39,7 @@ Here are some ideas to get you started:
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🎯 Languages-Frameworks-Tools 🎯</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,html,css,javascript,java,spring,mysql" />
@@ -50,7 +49,7 @@ Here are some ideas to get you started:
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">✨ Stats ✨</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=carlosbernard0&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
