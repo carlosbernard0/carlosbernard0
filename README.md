@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">Carlos Bernardo K.F - Development intern</h3>
+<h3 align="center">Carlos Bernardo K.F - Development Intern</h3>
 
 <br/>
 
