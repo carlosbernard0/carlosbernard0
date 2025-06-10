@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">Carlos Bernardo K.F - Development Intern</h3>
+<h3 align="center">Carlos Bernardo K.F - Software Development</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently starting to work as a developer intern.
+ 🔭 I’m currently starting to work as a software developer jr.
  
- 🌱 I’m currently learning **fullstack development**.
+ 🌱 I’m currently learning **mobile development**.
 
 
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <h2 align="center">🎯 Languages-Frameworks-Tools 🎯</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,html,css,javascript,ts,react,angular,bootstrap,tailwind,cs,java,spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,cs," />
   
 </div>
 
