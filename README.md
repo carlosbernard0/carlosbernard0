@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <h2 align="center">🎯 Languages-Frameworks-Tools 🎯</h2>
 <br/>
 <div align="center">
- <img src="https://skills.syvixor.com/api/icons?i=ts,reactnative,expo,tailwind,biome,csharp" /> 
+ <img src="https://skills.syvixor.com/api/icons?i=ts,reactnative,expo,tailwind,biome,csharp,dotnet" /> 
 </div>
 
 <br/>
